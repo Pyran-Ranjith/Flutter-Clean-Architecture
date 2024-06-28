@@ -29,8 +29,12 @@ __________________________________________________________
 
 __________________________________________________________
 - * IF ERROR FOUND IN MAIN.DART
+    - * $ flutter clean
     - * $ flutter packages get
     - * $ flutter packages upgrade
     - * $ dart fix --apply
     - * in command palete (F1) type 'Reload Window'
 
+- * Dependents in pubspec.yamal
+    - * $ flutter pub add fpdart
+    - * $ flutter pub add supabase_flutter
