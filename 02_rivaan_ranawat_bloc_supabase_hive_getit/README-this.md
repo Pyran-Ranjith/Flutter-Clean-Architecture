@@ -20,12 +20,20 @@ __________________________________________________________
 
 - [Resources](https://github.com/RivaanRanawat/blog-app-clean-architecture/tree/master)
 
+## Bookmarks Vedio
+- Date: 29-jun-2024
+- Bookmark: 1.47.55
+
 ## Instalation
 - 02-RivanRanwat-Bloc-Supabase-Hive-GetIt
 - $ flutter create rivaan_ranawat_bloc_supabase_hive_getit --template=app --platforms=android,ios --org=com.ranjith --project-name=rivaan_ranawat_bloc_supabase_hive_getit
 ## Extensions neededed
 - Flutter Widget Snippets
 - Error Lense
+
+- * Dependents in pubspec.yamal
+    - * $ flutter pub add fpdart
+    - * $ flutter pub add supabase_flutter
 
 __________________________________________________________
 - * IF ERROR FOUND IN MAIN.DART
@@ -34,7 +42,3 @@ __________________________________________________________
     - * $ flutter packages upgrade
     - * $ dart fix --apply
     - * in command palete (F1) type 'Reload Window'
-
-- * Dependents in pubspec.yamal
-    - * $ flutter pub add fpdart
-    - * $ flutter pub add supabase_flutter
